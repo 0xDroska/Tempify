@@ -75,9 +75,9 @@ Un bot Discord moderne et professionnel permettant la création et la gestion d'
 
 | Commande | Description | Permission |
 |----------|-------------|------------|
-| `/panel` | Ouvre le panneau de gestion des emails
-| `/config maxemails` | Configure le nombre max d'emails par utilisateur
-| `/config role` | Configure le rôle automatique
+| `/panel` | Ouvre le panneau de gestion des emails | Administrateur
+| `/config maxemails` | Configure le nombre max d'emails par utilisateur | Administrateur
+| `/config role` | Configure le rôle automatique | Administrateur
 
 ## ⚙️ Configuration
 
